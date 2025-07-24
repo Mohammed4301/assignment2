@@ -1,0 +1,36 @@
+
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.common-flex{
+    display: flex;
+    align-items: center;
+}
+.cart{
+    width: 25px;
+}
+header{
+    justify-content: space-between;
+    padding: 30px 100px;
+}
+.navbar ul{
+    list-style: none;
+    gap: 25px;
+}
+.navbar li a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #252432;
+}
+.cartIcon{
+    margin-left: 40px;
+    gap: 4px;
+}
+.logo{
+    width: 100px;
+}
